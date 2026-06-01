@@ -1,0 +1,8 @@
+{
+  "name": "YMT Auto Trading",
+  "description": "Premium New & Used Car Dealership in Myanmar. Discover luxury vehicles from Mercedes-Benz, BMW, Ford Everest, Toyota, and Honda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
